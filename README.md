@@ -1,1 +1,1 @@
-## static ortfolio site 💻
+## static portfolio site 💻
